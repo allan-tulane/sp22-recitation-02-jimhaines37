@@ -53,7 +53,9 @@ where $W(1) = 1$.
   assume: n = 10, a = 2, b = 2
   
   f(n) = 1 --> W(n) = 15
+  
   f(n) = n --> W(n)= 36
+  
   f(n) = log(n) (assume log base 10) --> W(n) = 11.602059991327963
 
 
